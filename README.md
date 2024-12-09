@@ -1,8 +1,8 @@
 # Enhancing Cross-modal Semantic Consistency via Key Token Alignment for Image-text Retrieval
 
-## Introduce
+## Introduction
 
-The goal of cross-modal matching is to establish a strong link between vision and speech so that computers can better understand the semantic relationships between images and text. As a key multimodal task, it improves the overall understanding of the model by optimising the matching between images and text. Traditional fine-grained alignment methods typically rely on pre-trained target detectors to extract features from image regions and then match these regions to text. While effective, this approach suffers from high computational complexity and error propagation during region detection and multi-stage training, which affects the efficiency and robustness of the model.
+The goal of cross-modal matching is to establish a strong link between vision and speech so that computers can better understand the semantic relationships between images and texts. As a key multimodal task, it improves the overall understanding of the model by optimising the matching between images and texts. Traditional fine-grained alignment methods typically rely on pre-trained target detectors to extract features from image regions and then match these regions to texts. While effective, this approach suffers from high computational complexity and error propagation during region detection and multi-stage training, which affects the efficiency and robustness of the model.
 
 ![Image text](https://github.com/ICME2025ITR/SCTA/blob/main/imgs/image-1.jpg)
 
